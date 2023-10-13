@@ -13,4 +13,4 @@
    1 - Notebook İşlemleri
    2 - Cep Telefonu İşlemleri
    3 - Marka Listele
-   0 - Çıkış Yap 
+   0 - Çıkış Yap  
